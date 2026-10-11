@@ -1,0 +1,419 @@
+record_id,date,channel,amount_k_rwf,hour_of_day,transactions_today,amount_band,customer_age,suspicious
+1387,11/03/2025,Airtel Money,24.0,16.0,10,small,46.0,yes
+1116,May 16,MTN MoMo,13.0,,7,small,38.0,no
+1338,27/05/2025,AIRTEL MONEY,30.0,17.0,10,small,26.0,No
+1187,18 Apr 2025,MTN MoMo,116.0,18.0,6,medium,22.0,NO
+1132,March 08,MTN MoMo,33.0,13.0,8,small,26.0,no
+1321,May 11,Airtel Money,55.0,19.0,6,medium,66.0,no
+1311,2025-03-23,mtn momo,24.0,9.0,8,small,39.0,no
+1246,April 29,MTN MoMo,22.0,0.0,7,small,65.0,no
+1383,16/06/2025,MTN MoMo,22.0,23.0,7,small,22.0,NO
+1009,03 May 2025,MTN MoMo,16.0,,6,small,42.0,no
+1312,April 23,MTN MoMo,36.0,0.0,9,small,30.0,yes
+1257,May 15,MTN MoMo,86.0,13.0,5,medium,25.0,no
+1056,2025-06-06,airtel money,42.0,2.0,6,small,40.0,no
+1146,30 Mar 2025,MTN MoMo,79.0,23.0,7,medium,36.0,yes
+1127,2025-05-01,Airtel Money,187.0,3.0,7,large,26.0,YES
+1337,03/05/2025,MTN,39.0,2.0,8,small,19.0,no
+1019,2025-06-10,MTN MoMo,28.0,22.0,9,small,22.0,NO
+1012,2025-04-24,Airtel Money,26.0,12.0,3,small,57.0,no
+1235,29 Mar 2025,MTN MoMo,42.0,15.0,5,small,40.0,no
+1094,March 20,Mtn MoMo,15.0,0.0,9,small,21.0,Yes
+1389,07/06/2025,MTN MoMo,19.0,3.0,10,small,29.0,yes
+1089,2025-04-18,Mtn MoMo,11.0,11.0,8,small,49.0,no
+1269,02 Apr 2025,Airtel Money,20.0,17.0,8,small,41.0,no
+1396,09 Jun 2025,MTN MoMo,31.0,9.0,5,small,51.0,No
+1258,04 May 2025,AIRTEL MONEY,22.0,5.0,6,small,66.0,no
+1329,22/06/2025,Airtel Money,70.0,21.0,6,medium,64.0,no
+1108,April 02,Airtel Money,18.0,4.0,9,small,37.0,yes
+1145,01/04/2025,MTN MoMo,36.0,20.0,8,small,54.0,no
+1199,2025-04-29,Mtn MoMo,38.0,13.0,11,small,45.0,no
+1347,12 Apr 2025,Airtel Money,104.0,13.0,13,medium,22.0,yes
+1148,2025-04-14,Airtel Money,10.0,17.0,10,small,55.0,no
+1058,11/05/2025,MTN MoMo,44.0,21.0,5,small,57.0,no
+1291,10 Jun 2025,MTN,13.0,10.0,6,small,59.0,no
+1051,26 Apr 2025,MTN MoMo,31.0,15.0,9,small,48.0,no
+1267,March 26,MTN MoMo,4.0,9.0,5,small,24.0,no
+1371,June 12,MTN MoMo,28.0,22.0,13,small,24.0,YES
+1007,2025-06-06,MTN MoMo,37.0,5.0,7,small,61.0,No
+1097,2025-06-27,Airtel Money,50.0,8.0,8,small,63.0,no
+1155,April 04,MTN MoMo,21.0,13.0,4,small,27.0,No
+1233,07/06/2025,Airtel Money,133.0,19.0,5,medium,69.0,Yes
+1084,2025-03-31,Airtel Money,22.0,2.0,11,small,57.0,yes
+1050,29/05/2025,MTN MoMo,52.0,22.0,7,medium,32.0,no
+1010,16 Mar 2025,Airtel Money,2.0,19.0,8,small,33.0,no
+1158,26 Mar 2025,Airtel Money,10.0,8.0,10,small,65.0,yes
+1234,05 Apr 2025,MTN MoMo,11.0,14.0,6,small,47.0,no
+1292,31/03/2025,MTN MoMo,92.0,21.0,5,medium,69.0,No
+1302,2025-06-26,MTN MoMo,114.0,8.0,6,medium,69.0,NO
+1078,June 09,Airtel Money,100.0,12.0,11,medium,37.0,yes
+1162,29 Mar 2025,MTN MoMo,47.0,17.0,12,small,62.0,yes
+1227,15/05/2025,MTN MoMo,25.0,14.0,5,small,43.0,NO
+1303,2025-03-14,MTN MoMo,12.0,1.0,5,small,32.0,no
+1109,2025-05-27,Airtel,24.0,1.0,10,small,46.0,Yes
+1320,June 24,Mtn MoMo,64.0,12.0,6,medium,38.0,no
+1072,June 26,MTN MoMo,29.0,6.0,6,small,24.0,No
+1207,April 12,Airtel Money,5.0,14.0,11,small,67.0,no
+1118,11/04/2025,Airtel Money,14.0,5.0,5,small,50.0,no
+1283,12/03/2025,MTN MoMo,20.0,7.0,7,small,21.0,NO
+1325,18/04/2025,Airtel Money,11.0,4.0,6,small,62.0,YES
+1130,May 24,MTN MoMo,19.0,16.0,5,small,46.0,no
+1291,10 Jun 2025,MTN,13.0,10.0,6,small,59.0,no
+1005,08/05/2025,MTN MoMo,8.0,1.0,6,small,34.0,no
+1313,March 01,MTN MoMo,30.0,13.0,3,small,22.0,No
+1330,March 18,MTN MoMo,29.0,7.0,8,small,58.0,NO
+1290,19 Jun 2025,MTN MoMo,14.0,1.0,6,small,49.0,no
+1042,27 May 2025,Airtel Money,149.0,21.0,6,medium,50.0,No
+1324,March 13,Airtel Money,39.0,16.0,4,small,19.0,No
+1196,June 05,Airtel Money,42.0,,9,small,31.0,NO
+1297,18 May 2025,Airtel Money,157.0,10.0,5,large,61.0,Yes
+1354,23/04/2025,MTN MoMo,55.0,11.0,7,medium,31.0,NO
+1349,14 Apr 2025,Airtel Money,46.0,2.0,6,small,26.0,No
+1372,06 May 2025,MTN MoMo,308.0,19.0,9,large,42.0,yes
+1175,2025-05-10,Airtel Money,14.0,10.0,9,small,66.0,no
+1218,2025-06-20,Airtel Money,79.0,9.0,8,medium,62.0,yes
+1350,11 May 2025,Airtel Money,93.0,,6,medium,-5.0,no
+1181,06 Mar 2025,Airtel Money,34.0,9.0,12,small,44.0,no
+1339,2025-04-04,Airtel Money,55.0,0.0,9,medium,25.0,Yes
+1103,2025-06-20,MTN MoMo,18.0,,9,small,50.0,No
+1064,May 29,MTN MoMo,85.0,4.0,4,medium,50.0,No
+1282,March 07,Airtel Money,12.0,13.0,10,small,26.0,No
+1268,20/06/2025,AIRTEL MONEY,117.0,3.0,8,medium,46.0,yes
+1399,10/06/2025,MTN MoMo,15.0,6.0,6,small,38.0,no
+1379,2025-06-23,Airtel Money,34.0,15.0,5,small,20.0,no
+1210,2025-03-02,Airtel Money,24.0,5.0,5,small,42.0,No
+1332,2025-05-05,MTN MoMo,17.0,18.0,5,small,47.0,NO
+1308,15/04/2025,MTN MoMo,13.0,4.0,6,small,37.0,no
+1099,April 27,MTN MoMo,171.0,1.0,6,large,51.0,yes
+1331,06 Apr 2025,MTN MoMo,56.0,7.0,6,medium,53.0,NO
+1071,22 May 2025,mtn momo,45.0,3.0,9,small,25.0,Yes
+1384,March 31,Airtel Money,91.0,13.0,4,medium,21.0,no
+1250,2025-06-17,MTN MoMo,10.0,23.0,9,small,48.0,no
+1344,06/04/2025,Airtel Money,94.0,2.0,7,medium,53.0,YES
+1306,2025-05-05,MTN MoMo,104.0,12.0,8,medium,59.0,yes
+1287,11/03/2025,Airtel Money,45.0,10.0,3,small,64.0,NO
+1247,09/06/2025,MTN MoMo,77.0,17.0,11,medium,49.0,YES
+1357,29 Apr 2025,MTN MoMo,16.0,14.0,7,small,56.0,no
+1310,23/03/2025,Airtel Money,12.0,1.0,9,small,50.0,Yes
+1241,2025-03-16,Airtel Money,60.0,,5,medium,21.0,No
+1085,25 Apr 2025,MTN MoMo,12.0,11.0,5,small,18.0,No
+1348,13 Jun 2025,Airtel Money,19.0,21.0,4,small,21.0,no
+1016,March 24,Airtel Money,25.0,22.0,8,small,24.0,no
+1088,13 Mar 2025,Airtel Money,175.0,,6,large,69.0,No
+1335,2025-03-10,Airtel Money,6.0,18.0,8,small,18.0,No
+1068,20/04/2025,MTN MoMo,41.0,17.0,6,small,20.0,no
+1079,2025-06-10,MTN MoMo,55.0,5.0,7,medium,68.0,NO
+1221,2025-05-08,MTN MoMo,21.0,5.0,5,small,62.0,no
+1172,19 Apr 2025,MTN,70.0,23.0,9,medium,22.0,Yes
+1128,March 28,MTN MoMo,71.0,18.0,3,medium,33.0,No
+1013,March 26,MTN MoMo,77.0,,5,medium,33.0,no
+1046,12/03/2025,MTN,105.0,6.0,5,medium,32.0,No
+1322,2025-04-11,MTN MoMo,41.0,4.0,6,small,37.0,yes
+1082,April 13,Airtel Money,59.0,,7,medium,27.0,NO
+1227,15/05/2025,MTN MoMo,25.0,14.0,5,small,43.0,NO
+1157,25 Jun 2025,airtel money,35.0,14.0,10,small,29.0,no
+1381,May 31,MTN MoMo,500.0,3.0,12,large,30.0,yes
+1053,06/03/2025,MTN MoMo,46.0,11.0,16,small,31.0,YES
+1364,2025-03-14,Mtn MoMo,48.0,13.0,14,small,38.0,yes
+1175,2025-05-10,Airtel Money,14.0,10.0,9,small,66.0,no
+1122,May 28,Airtel Money,10.0,10.0,3,small,42.0,NO
+1043,March 01,MTN MoMo,23.0,11.0,8,small,19.0,no
+1030,25 Apr 2025,Airtel Money,70.0,23.0,12,medium,36.0,yes
+1355,March 29,airtel money,47.0,20.0,3,small,40.0,no
+1285,April 18,Airtel Money,21.0,3.0,6,small,60.0,no
+1296,25 Mar 2025,Airtel Money,63.0,6.0,5,medium,36.0,no
+1021,2025-06-15,MTN MoMo,19.0,13.0,7,small,28.0,no
+1264,05 May 2025,Airtel Money,258.0,,13,large,22.0,yes
+1223,June 04,MTN MoMo,120.0,20.0,12,medium,67.0,yes
+1200,April 03,MTN MoMo,4.0,,12,small,55.0,no
+1134,01/04/2025,Airtel Money,6.0,10.0,9,small,35.0,no
+1136,03 Mar 2025,MTN MoMo,29.0,7.0,4,small,32.0,no
+1189,29/05/2025,MTN MoMo,118.0,14.0,4,medium,49.0,No
+1154,March 04,Airtel Money,167.0,20.0,12,large,59.0,yes
+1254,April 03,Airtel Money,42.0,13.0,11,small,59.0,NO
+1110,03/04/2025,MTN MoMo,24.0,8.0,4,small,36.0,no
+1380,16 Apr 2025,MTN MoMo,5.0,,5,small,31.0,No
+1336,2025-06-01,Mtn MoMo,22.0,9.0,5,small,61.0,no
+1032,22/04/2025,Airtel Money,46.0,21.0,7,small,28.0,No
+1286,May 22,MTN MoMo,44.0,20.0,9,small,26.0,no
+1266,07 May 2025,MTN MoMo,20.0,16.0,5,small,35.0,NO
+1184,June 24,airtel money,100.0,15.0,3,medium,20.0,no
+1261,14/05/2025,MTN MoMo,21.0,14.0,4,small,36.0,no
+1161,17/03/2025,mtn momo,24.0,20.0,6,small,42.0,No
+1038,24 May 2025,Airtel Money,25.0,14.0,7,small,0.0,no
+1022,2025-04-11,Airtel Money,27.0,3.0,12,small,36.0,yes
+1323,April 17,Airtel Money,15.0,21.0,3,small,55.0,no
+1242,22/05/2025,MTN MoMo,34.0,7.0,6,small,62.0,no
+1278,2025-04-15,MTN MoMo,22.0,16.0,8,small,54.0,no
+1307,19 Mar 2025,Airtel Money,19.0,11.0,10,small,40.0,NO
+1275,2025-03-10,MTN MoMo,68.0,23.0,10,medium,30.0,yes
+1255,20/03/2025,Airtel Money,93.0,2.0,6,medium,46.0,Yes
+1318,2025-03-30,MTN MoMo,27.0,6.0,8,small,38.0,NO
+1091,13 Mar 2025,MTN,123.0,,3,medium,39.0,yes
+1137,May 03,MTN MoMo,65.0,1.0,2,medium,47.0,NO
+1334,27/06/2025,MTN momo,88.0,21.0,5,medium,150.0,no
+1123,20 Apr 2025,Airtel Money,45.0,6.0,11,small,55.0,yes
+1167,June 03,MTN MoMo,152.0,20.0,8,large,29.0,YES
+1197,01 Jun 2025,Airtel Money,51.0,10.0,7,medium,56.0,no
+1382,04 Jun 2025,AIRTEL MONEY,47.0,4.0,7,small,50.0,NO
+1376,April 02,MTN MoMo,53.0,18.0,7,medium,19.0,no
+1288,2025-03-29,MTN MoMo,25.0,23.0,10,small,64.0,yes
+1391,26/06/2025,Airtel Money,14.0,23.0,9,small,49.0,no
+1244,2025-04-17,Airtel Money,44.0,22.0,3,small,53.0,no
+1395,2025-05-11,MTN MoMo,227.0,1.0,10,large,26.0,Yes
+1139,08/03/2025,Airtel Money,13.0,13.0,2,small,54.0,no
+1245,10/03/2025,Airtel Money,35.0,14.0,10,small,44.0,no
+1398,May 15,Airtel Money,95.0,10.0,6,medium,25.0,no
+1025,2025-05-22,MTN MoMo,19.0,,8,small,57.0,NO
+1369,25 Apr 2025,Airtel Money,29.0,15.0,6,small,37.0,no
+1275,2025-03-10,MTN MoMo,68.0,23.0,10,medium,30.0,yes
+1165,2025-06-20,Mtn MoMo,15.0,,16,small,36.0,YES
+1034,2025-03-19,airtel money,33.0,3.0,8,small,45.0,Yes
+1168,2025-05-09,MTN MoMo,44.0,14.0,11,small,39.0,no
+1138,13 Mar 2025,Airtel,44.0,19.0,9,small,49.0,NO
+1065,May 05,Mtn MoMo,198.0,21.0,7,large,41.0,Yes
+1270,March 26,MTN MoMo,6.0,2.0,10,small,50.0,yes
+1002,31/03/2025,Airtel Money,69.0,5.0,8,medium,56.0,no
+1231,2025-03-14,MTN MoMo,70.0,15.0,9,medium,60.0,no
+1080,2025-03-30,MTN MoMo,84.0,13.0,5,medium,64.0,no
+1281,2025-03-06,AIRTEL MONEY,5.0,16.0,12,small,40.0,yes
+1176,24/03/2025,Airtel Money,7.0,15.0,8,small,23.0,no
+1031,2025-05-26,Airtel Money,79.0,5.0,8,medium,54.0,No
+1124,2025-05-25,MTN momo,33.0,21.0,9,small,44.0,Yes
+1144,21/03/2025,Airtel Money,21.0,14.0,2,small,67.0,no
+1328,2025-05-19,Airtel Money,32.0,12.0,10,small,48.0,No
+1295,2025-05-04,Airtel Money,23.0,0.0,8,small,999.0,Yes
+1265,13/06/2025,mtn momo,10.0,10.0,4,small,55.0,no
+1220,04/03/2025,Airtel,26.0,2.0,5,small,54.0,NO
+1222,30/05/2025,MTN momo,6.0,2.0,8,small,43.0,yes
+1367,03/05/2025,Airtel Money,105.0,,13,medium,53.0,yes
+1104,2025-06-24,airtel money,9.0,21.0,7,small,43.0,no
+1066,April 20,MTN MoMo,172.0,6.0,5,large,44.0,No
+1117,June 19,MTN MoMo,40.0,3.0,8,small,31.0,Yes
+1240,23 Apr 2025,MTN MoMo,6.0,20.0,5,small,36.0,no
+1373,2025-06-07,Airtel Money,98.0,14.0,8,medium,37.0,yes
+1115,2025-03-04,MTN MoMo,57.0,13.0,8,medium,69.0,NO
+1272,12/04/2025,MTN MoMo,157.0,9.0,13,large,29.0,YES
+1185,14/06/2025,MTN MoMo,38.0,13.0,8,small,58.0,NO
+1342,25/03/2025,MTN MoMo,55.0,5.0,7,medium,43.0,NO
+1204,11 Apr 2025,MTN MoMo,95.0,7.0,10,medium,56.0,no
+1190,2025-04-19,Airtel Money,84.0,7.0,5,medium,69.0,No
+1392,25 May 2025,Airtel Money,44.0,10.0,10,small,59.0,NO
+1069,23 Jun 2025,Airtel Money,120.0,7.0,5,medium,49.0,No
+1073,16/03/2025,MTN momo,23.0,18.0,7,small,32.0,NO
+1017,June 04,MTN MoMo,18.0,13.0,12,small,41.0,NO
+1293,19 Jun 2025,MTN MoMo,39.0,15.0,9,small,150.0,No
+1015,June 20,Airtel Money,25.0,19.0,5,small,50.0,No
+1193,16 Jun 2025,Airtel Money,196.0,14.0,8,large,42.0,yes
+1090,10 Mar 2025,airtel money,15.0,5.0,4,small,67.0,no
+1086,2025-03-04,Airtel Money,218.0,15.0,9,large,39.0,yes
+1352,April 13,Airtel Money,2.0,10.0,8,small,34.0,no
+1036,08/06/2025,Airtel Money,77.0,12.0,6,medium,66.0,no
+1118,11/04/2025,Airtel Money,14.0,5.0,5,small,50.0,no
+1111,2025-03-22,MTN MoMo,36.0,4.0,9,small,58.0,yes
+1182,30 Mar 2025,MTN MoMo,32.0,14.0,3,small,27.0,no
+1095,2025-06-10,MTN MoMo,96.0,,9,medium,35.0,no
+1060,26/06/2025,MTN MoMo,6.0,,6,small,40.0,no
+1035,19 May 2025,MTN MoMo,19.0,12.0,4,small,65.0,no
+1370,18 Mar 2025,Airtel Money,40.0,23.0,6,small,150.0,no
+1100,March 04,MTN MoMo,55.0,5.0,8,medium,40.0,no
+1192,25/06/2025,AIRTEL MONEY,15.0,,6,small,67.0,no
+1059,2025-05-04,Airtel Money,67.0,6.0,12,medium,62.0,yes
+1107,2025-05-01,MTN MoMo,62.0,20.0,11,medium,40.0,No
+1120,19/06/2025,Airtel Money,57.0,1.0,9,medium,46.0,yes
+1062,04 Mar 2025,MTN momo,75.0,15.0,4,medium,41.0,No
+1239,2025-03-21,MTN MoMo,11.0,5.0,5,small,28.0,no
+1300,23/06/2025,MTN MoMo,101.0,4.0,3,medium,45.0,no
+1345,2025-03-13,MTN MoMo,74.0,4.0,9,medium,18.0,no
+1225,23/04/2025,Airtel Money,18.0,11.0,5,small,25.0,no
+1131,March 07,MTN MoMo,38.0,1.0,7,small,51.0,no
+1075,13 Apr 2025,MTN momo,56.0,13.0,4,medium,57.0,No
+1011,April 21,MTN momo,34.0,23.0,16,small,63.0,yes
+1061,June 28,Airtel Money,13.0,1.0,8,small,22.0,Yes
+1363,2025-04-02,AIRTEL MONEY,107.0,4.0,6,medium,59.0,YES
+1378,June 12,airtel money,11.0,10.0,7,small,53.0,No
+1205,12/06/2025,Airtel Money,37.0,17.0,6,small,51.0,no
+1304,05/06/2025,MTN MoMo,33.0,15.0,5,small,49.0,NO
+1141,2025-03-02,MTN MoMo,20.0,,2,small,51.0,No
+1365,26/04/2025,Airtel Money,31.0,4.0,5,small,27.0,no
+1319,2025-04-18,mtn momo,20.0,2.0,2,small,27.0,NO
+1358,2025-06-22,Airtel Money,37.0,20.0,9,small,28.0,No
+1143,30 May 2025,Airtel Money,23.0,5.0,4,small,53.0,no
+1356,21/05/2025,MTN MoMo,49.0,5.0,3,small,19.0,no
+1149,16 Jun 2025,MTN MoMo,96.0,13.0,4,medium,31.0,no
+1185,14/06/2025,MTN MoMo,38.0,13.0,8,small,58.0,NO
+1142,June 10,MTN MoMo,95.0,0.0,9,medium,44.0,yes
+1284,09 Apr 2025,Mtn MoMo,43.0,14.0,4,small,36.0,no
+1067,June 19,mtn momo,98.0,9.0,7,medium,54.0,yes
+1397,22/05/2025,MTN momo,37.0,1.0,7,small,43.0,yes
+1368,April 23,Airtel Money,97.0,16.0,9,medium,44.0,no
+1076,2025-03-09,Airtel Money,8.0,7.0,4,small,63.0,no
+1351,05/03/2025,MTN MoMo,41.0,18.0,5,small,39.0,no
+1262,25 Mar 2025,MTN MoMo,41.0,19.0,7,small,33.0,no
+1040,March 29,MTN MoMo,54.0,1.0,6,medium,20.0,yes
+1159,2025-04-05,MTN MoMo,42.0,0.0,11,small,27.0,yes
+1212,24 May 2025,mtn momo,51.0,5.0,5,medium,38.0,no
+1026,2025-03-29,airtel money,41.0,17.0,4,small,65.0,no
+1039,02 May 2025,Airtel,77.0,1.0,9,medium,39.0,yes
+1151,17 Jun 2025,Airtel Money,9.0,14.0,6,small,21.0,no
+1074,April 01,mtn momo,18.0,6.0,6,small,35.0,no
+1381,May 31,MTN MoMo,500.0,3.0,12,large,30.0,yes
+1388,07/03/2025,Airtel Money,117.0,,5,medium,32.0,YES
+1395,2025-05-11,MTN MoMo,227.0,1.0,10,large,26.0,Yes
+1119,April 26,MTN MoMo,40.0,6.0,7,small,49.0,no
+1024,2025-04-19,Airtel,29.0,15.0,8,small,38.0,no
+1055,29/03/2025,AIRTEL MONEY,44.0,20.0,8,small,40.0,no
+1289,29 May 2025,MTN MoMo,71.0,12.0,5,medium,26.0,NO
+1375,08 May 2025,MTN MoMo,14.0,3.0,7,small,66.0,yes
+1161,17/03/2025,mtn momo,24.0,20.0,6,small,42.0,No
+1133,June 18,Airtel Money,15.0,6.0,10,small,53.0,NO
+1226,20/06/2025,Airtel Money,15.0,15.0,7,small,29.0,No
+1061,June 28,Airtel Money,13.0,1.0,8,small,22.0,Yes
+1113,08/06/2025,MTN MoMo,42.0,,10,small,30.0,NO
+1352,April 13,Airtel Money,2.0,10.0,8,small,34.0,no
+1063,27/03/2025,airtel money,31.0,14.0,13,small,32.0,no
+1259,02 Apr 2025,Airtel Money,8.0,8.0,11,small,59.0,no
+1263,March 17,MTN MoMo,24.0,,9,small,24.0,no
+1317,16 Apr 2025,mtn momo,79.0,15.0,7,medium,66.0,no
+1224,19/04/2025,Airtel Money,23.0,8.0,7,small,36.0,no
+1201,26 May 2025,MTN MoMo,200.0,1.0,8,large,62.0,yes
+1014,07 Jun 2025,Airtel Money,16.0,20.0,4,small,52.0,no
+1230,13 Mar 2025,Airtel Money,141.0,16.0,7,medium,41.0,Yes
+1327,10/06/2025,Airtel Money,26.0,7.0,10,small,57.0,no
+1362,2025-06-24,Airtel Money,53.0,18.0,12,medium,26.0,Yes
+1385,01 Apr 2025,MTN MoMo,25.0,23.0,4,small,19.0,no
+1087,06/06/2025,MTN MoMo,14.0,4.0,4,small,69.0,no
+1033,May 31,MTN,9.0,23.0,8,small,57.0,No
+1106,June 16,MTN MoMo,120.0,15.0,4,medium,37.0,no
+1243,29 Apr 2025,MTN MoMo,31.0,18.0,8,small,53.0,no
+1238,18/03/2025,MTN MoMo,24.0,0.0,9,small,20.0,yes
+1083,23 Mar 2025,Mtn MoMo,23.0,22.0,5,small,52.0,No
+1023,2025-06-03,Airtel,171.0,16.0,6,large,43.0,Yes
+1049,May 29,Airtel,107.0,22.0,9,medium,23.0,Yes
+1251,2025-03-14,Airtel Money,26.0,14.0,3,small,57.0,no
+1164,2025-04-05,Airtel Money,101.0,3.0,5,medium,41.0,Yes
+1173,2025-05-12,AIRTEL MONEY,17.0,23.0,12,small,43.0,yes
+1188,March 08,MTN MoMo,122.0,9.0,6,medium,19.0,no
+1004,2025-05-09,mtn momo,50.0,16.0,8,small,68.0,No
+1140,13/06/2025,Airtel Money,79.0,6.0,11,medium,52.0,yes
+1374,2025-04-20,MTN MoMo,124.0,16.0,5,medium,31.0,no
+1066,April 20,MTN MoMo,172.0,6.0,5,large,44.0,No
+1037,13/05/2025,MTN MoMo,133.0,8.0,6,medium,43.0,no
+1174,April 01,Mtn MoMo,93.0,2.0,6,medium,33.0,Yes
+1277,01/05/2025,MTN MoMo,29.0,3.0,7,small,38.0,No
+1346,2025-05-25,Airtel Money,156.0,16.0,6,large,40.0,Yes
+1219,April 12,Mtn MoMo,104.0,5.0,9,medium,27.0,no
+1206,April 16,Airtel Money,10.0,13.0,5,small,38.0,NO
+1170,2025-05-01,MTN MoMo,77.0,14.0,8,medium,47.0,no
+1048,20/05/2025,MTN MoMo,17.0,3.0,15,small,19.0,Yes
+1160,2025-06-15,Airtel,63.0,4.0,11,medium,66.0,yes
+1271,17 May 2025,Airtel,31.0,11.0,6,small,48.0,no
+1121,2025-04-04,MTN MoMo,17.0,,13,small,50.0,Yes
+1346,2025-05-25,Airtel Money,156.0,16.0,6,large,40.0,Yes
+1279,23/04/2025,Airtel,174.0,5.0,7,large,44.0,yes
+1081,04/04/2025,Airtel Money,33.0,14.0,6,small,31.0,no
+1208,28 Mar 2025,AIRTEL MONEY,71.0,11.0,9,medium,52.0,NO
+1386,May 31,MTN MoMo,71.0,21.0,4,medium,41.0,no
+1129,08/05/2025,MTN MoMo,8.0,12.0,4,small,18.0,no
+1305,06/04/2025,MTN MoMo,8.0,9.0,4,small,51.0,no
+1125,2025-04-19,mtn momo,117.0,7.0,11,medium,24.0,yes
+1333,30/04/2025,Airtel Money,46.0,3.0,9,small,43.0,yes
+1180,May 29,Airtel Money,55.0,11.0,9,medium,33.0,no
+1343,18 Apr 2025,MTN MoMo,52.0,0.0,5,medium,31.0,No
+1186,27/06/2025,Airtel Money,69.0,22.0,14,medium,35.0,Yes
+1194,2025-04-20,MTN MoMo,40.0,1.0,10,small,52.0,yes
+1047,2025-03-28,Airtel Money,18.0,7.0,9,small,21.0,no
+1093,2025-05-03,Airtel Money,55.0,9.0,7,medium,43.0,no
+1377,25/06/2025,Airtel Money,149.0,6.0,5,medium,26.0,no
+1028,03/04/2025,Airtel Money,37.0,18.0,6,small,31.0,no
+1229,18/06/2025,MTN MoMo,25.0,23.0,8,small,68.0,NO
+1044,11/03/2025,AIRTEL MONEY,19.0,23.0,8,small,23.0,yes
+1020,10/06/2025,MTN MoMo,22.0,16.0,2,small,35.0,no
+1169,April 18,MTN MoMo,404.0,16.0,9,large,67.0,yes
+1252,2025-04-18,Airtel Money,68.0,11.0,4,medium,39.0,no
+1340,26/06/2025,Airtel Money,109.0,7.0,6,medium,54.0,no
+1202,27 May 2025,Airtel Money,28.0,15.0,8,small,49.0,no
+1092,March 02,MTN momo,65.0,0.0,4,medium,30.0,no
+1353,2025-06-14,MTN MoMo,211.0,18.0,8,large,19.0,yes
+1216,2025-03-22,MTN MoMo,5.0,13.0,8,small,27.0,no
+1097,2025-06-27,Airtel Money,50.0,8.0,8,small,63.0,no
+1298,June 01,MTN MoMo,71.0,1.0,7,medium,42.0,yes
+1147,06 May 2025,MTN MoMo,48.0,0.0,7,small,35.0,no
+1102,11/06/2025,MTN MoMo,32.0,23.0,7,small,47.0,no
+1183,09/04/2025,Airtel Money,62.0,7.0,4,medium,54.0,No
+1310,23/03/2025,Airtel Money,12.0,1.0,9,small,50.0,Yes
+1045,April 28,Airtel Money,15.0,14.0,7,small,21.0,no
+1213,11 Jun 2025,MTN MoMo,36.0,19.0,6,small,48.0,no
+1198,27 Mar 2025,MTN MoMo,10.0,7.0,8,small,52.0,no
+1299,14/03/2025,MTN MoMo,50.0,,5,small,54.0,no
+1179,04/05/2025,MTN,126.0,0.0,5,medium,40.0,yes
+1253,May 24,MTN MoMo,17.0,8.0,4,small,55.0,No
+1249,14 May 2025,MTN MoMo,12.0,14.0,6,small,51.0,no
+1052,12/04/2025,MTN MoMo,16.0,10.0,7,small,22.0,no
+1003,2025-04-20,MTN MoMo,127.0,18.0,9,medium,64.0,YES
+1135,May 31,MTN MoMo,27.0,17.0,8,small,25.0,no
+1041,April 10,MTN MoMo,29.0,10.0,5,small,43.0,no
+1394,April 16,mtn momo,11.0,21.0,4,small,26.0,no
+1274,May 09,Airtel Money,29.0,15.0,5,small,62.0,no
+1214,April 29,Airtel Money,68.0,20.0,9,medium,52.0,yes
+1215,2025-06-05,mtn momo,17.0,0.0,12,small,57.0,yes
+1276,06/05/2025,Mtn MoMo,24.0,5.0,8,small,36.0,No
+1393,2025-04-19,Airtel Money,33.0,16.0,7,small,26.0,no
+1070,24 May 2025,MTN MoMo,20.0,19.0,10,small,51.0,no
+1366,21/03/2025,MTN MoMo,64.0,14.0,8,medium,35.0,no
+1209,April 04,Airtel Money,81.0,21.0,5,medium,63.0,no
+1166,2025-05-03,MTN MoMo,23.0,6.0,4,small,19.0,No
+1156,04/04/2025,Airtel Money,27.0,12.0,10,small,29.0,no
+1294,2025-03-07,Airtel Money,2.0,23.0,11,small,55.0,Yes
+1152,04 Apr 2025,Airtel Money,7.0,20.0,10,small,58.0,Yes
+1217,2025-04-11,MTN MoMo,21.0,12.0,11,small,28.0,no
+1211,March 29,MTN MoMo,5.0,19.0,2,small,44.0,NO
+1077,27 May 2025,Airtel Money,5.0,14.0,7,small,29.0,no
+1390,May 17,MTN MoMo,44.0,5.0,7,small,67.0,NO
+1299,14/03/2025,MTN MoMo,50.0,,5,small,54.0,no
+1236,March 04,airtel money,81.0,8.0,6,medium,42.0,no
+1006,29/03/2025,MTN MoMo,61.0,20.0,5,medium,45.0,NO
+1029,13/03/2025,Mtn MoMo,56.0,21.0,4,medium,48.0,no
+1018,2025-06-10,airtel money,65.0,12.0,5,medium,39.0,no
+1178,May 12,Airtel Money,99.0,15.0,3,medium,35.0,no
+1105,25/04/2025,MTN,47.0,15.0,5,small,23.0,NO
+1001,19 Mar 2025,Airtel Money,399.0,11.0,12,large,31.0,yes
+1191,June 23,MTN MoMo,207.0,11.0,9,large,38.0,YES
+1326,07 Mar 2025,MTN MoMo,75.0,8.0,6,medium,46.0,no
+1248,2025-03-22,MTN MoMo,10.0,18.0,7,small,45.0,No
+1171,09 May 2025,MTN,117.0,11.0,5,medium,69.0,no
+1114,29 May 2025,MTN MoMo,75.0,0.0,10,medium,69.0,Yes
+1126,22/04/2025,Airtel Money,19.0,9.0,7,small,32.0,no
+1163,2025-05-25,MTN MoMo,24.0,0.0,6,small,38.0,No
+1301,May 01,MTN MoMo,99.0,,6,medium,63.0,no
+1101,June 11,MTN MoMo,139.0,17.0,9,medium,27.0,yes
+1314,27/04/2025,MTN MoMo,111.0,16.0,6,medium,39.0,no
+1112,May 14,Airtel Money,73.0,14.0,8,medium,63.0,yes
+1232,2025-06-25,Airtel Money,53.0,0.0,7,medium,32.0,yes
+1316,08/03/2025,Airtel Money,13.0,12.0,8,small,29.0,no
+1309,April 07,Airtel Money,219.0,17.0,7,large,69.0,yes
+1400,06 Apr 2025,MTN,13.0,2.0,3,small,41.0,No
+1027,2025-03-12,MTN MoMo,82.0,23.0,8,medium,59.0,yes
+1098,2025-04-27,Airtel Money,18.0,9.0,4,small,31.0,NO
+1359,08/04/2025,Airtel Money,25.0,23.0,7,small,50.0,No
+1195,20/04/2025,MTN MoMo,8.0,14.0,6,small,57.0,no
+1228,06 Jun 2025,Airtel Money,55.0,2.0,7,medium,68.0,Yes
+1260,April 07,Airtel Money,3.0,17.0,6,small,55.0,yes
+1096,2025-05-20,MTN MoMo,16.0,9.0,8,small,47.0,No
+1361,11/06/2025,Airtel Money,41.0,4.0,7,small,35.0,NO
+1054,May 08,MTN MoMo,13.0,7.0,5,small,65.0,no
+1153,June 18,Airtel Money,134.0,0.0,13,medium,37.0,yes
+1256,14 May 2025,Airtel Money,214.0,14.0,8,large,41.0,Yes
+1360,March 13,MTN MoMo,16.0,14.0,5,small,68.0,no
+1341,16 Jun 2025,MTN MoMo,38.0,13.0,11,small,29.0,Yes
+1018,2025-06-10,airtel money,65.0,12.0,5,medium,39.0,no
+1279,23/04/2025,Airtel,174.0,5.0,7,large,44.0,yes
+1273,25 May 2025,Airtel Money,261.0,,5,large,65.0,YES
+1315,15 Mar 2025,airtel money,65.0,2.0,8,medium,47.0,yes
+1150,March 04,MTN MoMo,19.0,,7,small,29.0,no
+1008,14/06/2025,MTN MoMo,93.0,17.0,9,medium,24.0,yes
+1237,April 19,airtel money,83.0,15.0,7,medium,68.0,no
+1203,2025-04-08,MTN MoMo,36.0,6.0,7,small,43.0,no
+1280,17/06/2025,Airtel Money,18.0,12.0,10,small,25.0,no
+1057,2025-06-11,MTN MoMo,34.0,2.0,9,small,18.0,Yes
+1177,May 25,Airtel Money,54.0,3.0,10,medium,25.0,Yes

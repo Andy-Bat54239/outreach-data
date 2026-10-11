@@ -1,0 +1,419 @@
+record_id,date,district,rainfall,temperature,soil_moisture,rain_level,field_size_ha,disease
+1002,21 Jun 2025,Nyagatare,128.0,17.8,66.0,medium,4.9,yes
+1263,03 May 2025,Rubavu,88.0,24.3,,medium,3.8,yes
+1230,19/05/2025,Huye,177.0,20.1,66.0,high,1.3,yes
+1078,13/03/2025,Kayonza,189.0,32.4,71.0,high,2.7,YES
+1130,2025-03-31,Rwamagana,112.0,33.5,45.0,medium,1.0,no
+1224,April 17,MUSANZE,106.0,22.3,54.0,medium,1.8,no
+1367,07/02/2025,Nyagatare,175.0,17.5,36.0,high,1.0,yes
+1043,15/07/2025,musanze,52.0,30.7,15.0,low,2.0,no
+1131,17/03/2025,Rwamagana,192.0,28.8,35.0,high,4.8,Yes
+1100,29/07/2025,Kayonza,120.0,15.8,71.0,medium,0.8,NO
+1080,2025-07-01,rubavu,60.0,31.3,,low,2.1,no
+1152,13 Apr 2025,Musanze,64.0,14.3,21.0,low,0.6,no
+1141,27 Jul 2025,Kayonza,121.0,25.3,62.0,medium,1.7,yes
+1194,2025-07-18,Musanse,115.0,16.8,69.0,medium,2.5,yes
+1122,09 May 2025,Huye,176.0,33.0,49.0,high,1.9,no
+1226,May 06,Nyagatare,62.0,28.4,27.0,low,4.7,no
+1049,29 May 2025,Nyagatare,146.0,26.0,77.0,high,4.3,yes
+1013,23 May 2025,Rwamagana,127.0,32.9,90.0,medium,1.0,yes
+1058,30/07/2025,Rubavu,83.0,28.8,68.0,medium,0.3,yes
+1101,30 Mar 2025,Huye,163.0,32.0,,high,2.0,yes
+1254,03 May 2025,Kayonsa,183.0,22.5,57.0,high,2.4,Yes
+1358,23/05/2025,nyagatare,94.0,31.3,57.0,medium,3.6,NO
+1084,28 Feb 2025,Huye,19.0,23.1,72.0,low,0.3,no
+1056,13 May 2025,Rubavu,135.0,15.0,56.0,medium,0.9,no
+1182,April 01,Nyagatare,144.0,12.7,61.0,high,1.4,no
+1345,June 16,Kayonsa,148.0,26.4,70.0,high,4.8,yes
+1243,2025-02-02,Musanze,199.0,17.2,55.0,high,1.8,yes
+1069,22/02/2025,Musanze,146.0,12.1,17.0,high,1.3,No
+1181,23 Feb 2025,Rwamagana,144.0,27.6,82.0,high,3.4,yes
+1104,28 Jul 2025,Musanze,81.0,19.0,40.0,medium,4.5,no
+1363,June 29,Musanze,155.0,24.4,14.0,high,3.1,YES
+1373,21/05/2025,Nyagatare,167.0,25.9,78.0,high,1.1,yes
+1332,2025-06-27,Kayonsa,176.0,26.7,86.0,high,3.3,Yes
+1233,2025-03-30,Kayonsa,173.0,32.2,14.0,high,1.4,no
+1083,2025-07-18,Kayonza,97.0,16.1,79.0,medium,0.9,NO
+1164,20/04/2025,Musanze,156.0,29.2,14.0,high,0.8,NO
+1209,April 04,kayonza ,179.0,25.8,76.0,high,1.6,yes
+1037,27 Apr 2025,Musanze,113.0,30.1,78.0,medium,1.9,yes
+1359,2025-05-31,musanze,57.0,32.3,12.0,low,3.8,no
+1395,July 29,Rwamagna,128.0,35.0,21.0,medium,3.6,no
+1185,30/07/2025,Huye,55.0,21.4,31.0,low,1.6,No
+1357,25 Jul 2025,rwamagana,59.0,30.0,28.0,low,4.5,no
+1375,2025-06-01,Huye,192.0,18.3,63.0,high,4.1,yes
+1218,17/05/2025,Rubavu,184.0,30.3,11.0,high,4.0,Yes
+1282,July 30,Rubavu,34.0,23.4,45.0,low,2.2,yes
+1337,19/05/2025,Musanze,165.0,18.6,57.0,high,3.0,yes
+1057,17 Mar 2025,Musanze,115.0,32.6,81.0,medium,3.8,yes
+1156,15 May 2025,Rwamagana,26.0,31.7,17.0,low,0.6,No
+1024,07 Jun 2025,Nyagatare,3.0,30.5,,low,0.9,no
+1047,2025-03-17,Musanze,116.0,29.4,49.0,medium,3.5,No
+1116,2025-07-29,Nyagatare,7.0,34.7,26.0,low,1.8,no
+1184,14/04/2025,Musanze,196.0,26.2,20.0,high,0.9,yes
+1150,June 23,Rubavu,53.0,31.8,31.0,low,1.9,NO
+1129,14 Mar 2025,Rubavu,95.0,18.5,,medium,0.6,No
+1052,23 May 2025,Kayonza,74.0,14.1,88.0,medium,3.0,No
+1067,February 27,rubavu,12.0,21.6,72.0,low,4.7,No
+1149,13/07/2025,Nyagatare,20.0,23.7,86.0,low,4.3,yes
+1238,2025-03-09,Huye,136.0,28.3,22.0,medium,0.4,Yes
+1381,April 30,Huye,6.0,26.7,,low,4.6,NO
+1385,02 May 2025,Musanze,87.0,18.6,59.0,medium,1.1,no
+1370,2025-02-02,Rwamagna,42.0,25.4,58.0,low,1.8,Yes
+1251,20/05/2025,Nyagatari,198.0,30.9,14.0,high,3.1,yes
+1376,June 11,Musanze,29.0,25.0,27.0,low,1.6,no
+1318,05 Mar 2025,Huye,105.0,27.3,44.0,medium,2.8,no
+1278,23 Feb 2025,Nyagatari,22.0,20.6,11.0,low,4.7,no
+1060,July 18,Musanze,159.0,14.2,41.0,high,5.0,no
+1072,27 Mar 2025,rubavu,83.0,27.4,59.0,medium,0.2,yes
+1378,2025-04-13,Huye,72.0,24.9,53.0,medium,3.9,YES
+1228,19 Feb 2025,Rwamagana,195.0,29.6,12.0,high,2.3,no
+1041,March 27,Musanze,139.0,28.1,57.0,medium,3.8,yes
+1040,2025-05-26,Rubavu,64.0,21.4,59.0,low,3.2,no
+1191,09 Jul 2025,Nyagatare,32.0,22.3,34.0,low,3.2,No
+1151,April 02,Rubavu,183.0,32.3,47.0,high,2.9,yes
+1389,14/05/2025,Nyagatare,120.0,12.5,62.0,medium,3.1,no
+1259,April 13,Huye,195.0,34.0,22.0,high,1.4,YES
+1105,2025-07-15,Rubavu,153.0,13.3,17.0,high,1.4,NO
+1187,2025-07-28,Nyagatare,148.0,15.0,21.0,high,3.2,no
+1249,March 22,Huye,24.0,30.2,84.0,low,1.0,no
+1342,April 28,Nyagatari,182.0,20.5,81.0,high,3.2,yes
+1038,14 Jul 2025,Rubavu,87.0,18.9,11.0,medium,3.4,No
+1042,11 Apr 2025,nyagatare,63.0,22.9,47.0,low,1.3,no
+1268,2025-06-14,Kayonza,3.0,33.4,16.0,low,1.8,NO
+1023,2025-04-16,Musanze,133.0,26.1,25.0,medium,3.8,no
+1262,25/02/2025,Musanze,101.0,27.7,77.0,medium,0.7,yes
+1178,15/03/2025,Musanze,34.0,13.4,35.0,low,4.6,no
+1368,11 Mar 2025,Rwamagana,19.0,33.6,85.0,low,0.5,no
+1057,17 Mar 2025,Musanze,115.0,32.6,81.0,medium,3.8,yes
+1063,24 Apr 2025,Nyagatare,100.0,33.4,19.0,medium,4.3,No
+1269,08 Apr 2025,Musanze,175.0,33.9,18.0,high,3.2,NO
+1388,04/07/2025,Rubavu,186.0,34.5,70.0,high,2.2,Yes
+1260,28/05/2025,Huye,112.0,32.5,46.0,medium,0.5,no
+1136,2025-03-11,Rubavu,130.0,15.8,67.0,medium,2.2,YES
+1313,July 02,Rwamagana,102.0,12.4,50.0,medium,2.9,no
+1285,2025-05-17,Rubavu,178.0,24.4,15.0,high,3.5,yes
+1025,June 03,Huye,90.0,18.7,14.0,medium,3.4,no
+1329,May 02,musanze,179.0,26.1,63.0,high,0.5,Yes
+1054,18 Feb 2025,Kayonza,99.0,27.2,34.0,medium,2.4,no
+1064,17/03/2025,Nyagatare,19.0,23.9,,low,3.4,NO
+1157,19/03/2025,Rwamagana,158.0,25.7,70.0,high,150.0,yes
+1128,03 Feb 2025,Musanze,164.0,34.5,38.0,high,3.7,No
+1082,20/04/2025,Rubavu,134.0,21.2,64.0,medium,1.0,Yes
+1393,April 21,Rwamagana,120.0,23.0,66.0,medium,4.8,yes
+1163,21/06/2025,Rubavu,48.0,17.4,13.0,low,-2.5,no
+1248,26 Apr 2025,Huye,15.0,21.0,16.0,low,3.2,no
+1264,21/03/2025,Rubavu,157.0,18.9,75.0,high,4.4,yes
+1301,19/07/2025,RUBAVU,148.0,20.8,,high,1.1,yes
+1325,24/07/2025,Musanze,104.0,29.4,,medium,2.3,NO
+1221,29/06/2025,Rubavu,86.0,29.2,42.0,medium,0.3,no
+1004,February 18,Musanze,74.0,12.8,41.0,medium,4.8,no
+1338,06 Mar 2025,Musanze,93.0,27.5,65.0,medium,0.3,Yes
+1372,2025-06-23,Huye,19.0,29.1,61.0,low,2.0,No
+1400,03/07/2025,Rwamagana,121.0,18.5,17.0,medium,2.5,no
+1272,27 May 2025,Rubavu,188.0,30.7,77.0,high,4.9,Yes
+1246,19/06/2025,Musanze,5.0,25.3,47.0,low,1.8,No
+1093,17/05/2025,Nyagatare,188.0,29.4,40.0,high,3.9,YES
+1011,28 Jun 2025,Kayonsa,193.0,16.9,35.0,high,1.5,No
+1384,17/04/2025,Musanze,10.0,24.7,52.0,low,4.0,no
+1335,2025-02-11,Rwamagana,142.0,15.4,89.0,high,4.9,Yes
+1281,16 Feb 2025,Nyagatare,151.0,18.1,88.0,high,0.3,Yes
+1239,05 Apr 2025,Musanze,73.0,16.1,63.0,medium,0.7,No
+1400,03/07/2025,Rwamagana,121.0,18.5,17.0,medium,2.5,no
+1368,11 Mar 2025,Rwamagana,19.0,33.6,85.0,low,0.5,no
+1292,24 Jun 2025,Nyagatare,71.0,26.0,40.0,medium,1.7,No
+1317,2025-04-11,Huye,80.0,30.1,22.0,medium,2.6,no
+1283,06/04/2025,Rubavu,23.0,29.8,54.0,low,4.2,No
+1171,February 20,Kayonza,42.0,28.5,36.0,low,0.6,no
+1319,27 May 2025,Musanze,20.0,28.2,50.0,low,0.2,no
+1133,21/05/2025,Rwamagana,149.0,15.9,,high,3.3,no
+1271,April 16,Rubavu,9.0,35.0,11.0,low,3.1,No
+1097,May 04,Huye,109.0,25.4,89.0,medium,1.9,yes
+1354,2025-05-23,Rwamagana,82.0,17.3,88.0,medium,3.9,NO
+1322,March 10,Rwamagana,165.0,26.9,,high,0.6,Yes
+1184,14/04/2025,Musanze,196.0,26.2,20.0,high,0.9,yes
+1016,July 08,Kayonza,165.0,12.6,21.0,high,0.9,NO
+1316,April 25,Nyagatare,39.0,23.6,37.0,low,5.0,no
+1096,23/05/2025,Musanze,132.0,30.2,74.0,medium,4.9,yes
+1003,2025-03-05,Nyagatare,93.0,21.1,,medium,1.1,no
+1355,22/06/2025,Kayonza,5.0,13.7,65.0,low,3.7,no
+1311,2025-07-08,Kayonza,37.0,13.8,80.0,low,3.8,No
+1312,20/04/2025,HUYE ,168.0,34.6,80.0,high,2.8,yes
+1386,March 23,Kayonza,61.0,30.3,,low,4.2,No
+1204,16/04/2025,Kayonza,149.0,21.4,56.0,high,0.5,Yes
+1266,13 Mar 2025,Kayonza,40.0,12.6,77.0,low,2.2,No
+1138,2025-04-04,Rubavu,168.0,14.6,69.0,high,0.7,YES
+1012,12 Jun 2025,rubavu,184.0,32.0,77.0,high,3.9,Yes
+1027,June 11,Rubavu,39.0,19.6,38.0,low,0.4,no
+1088,2025-02-10,Musanze,120.0,23.4,39.0,medium,3.7,yes
+1077,20 May 2025,Huye,32.0,31.0,11.0,low,2.3,No
+1202,2025-03-05,Kayonza,130.0,29.4,18.0,medium,3.1,No
+1195,April 11,Rubavu,128.0,15.7,21.0,medium,2.1,NO
+1115,20 Feb 2025,Rwamagana,56.0,24.5,45.0,low,4.4,no
+1330,2025-04-04,Musanze,163.0,24.1,49.0,high,0.9,Yes
+1070,07 Mar 2025,Musanze,63.0,21.1,55.0,low,1.9,No
+1219,03/04/2025,Kayonza,118.0,18.5,65.0,medium,2.3,No
+1296,2025-05-30,Musanze,99.0,31.3,35.0,medium,2.0,no
+1188,March 04,Rubavu,16.0,31.8,85.0,low,4.7,No
+1352,09/03/2025,Rwamagna,146.0,15.7,64.0,high,0.3,Yes
+1353,04/06/2025,Rubavu,15.0,31.6,66.0,low,2.6,no
+1145,February 03,Huye,193.0,29.5,12.0,high,4.2,yes
+1397,July 11,Kayonsa,57.0,20.9,41.0,low,1.0,no
+1189,2025-07-06,Rubavu,133.0,18.0,86.0,medium,1.6,yes
+1126,10 May 2025,Rubavu,24.0,27.5,65.0,low,4.4,no
+1286,05 Jun 2025,Huye,176.0,30.3,58.0,high,4.1,Yes
+1267,2025-06-01,Rwamagana,103.0,17.8,38.0,medium,4.5,yes
+1163,21/06/2025,Rubavu,48.0,17.4,13.0,low,-2.5,no
+1018,February 13,Huye,68.0,24.9,74.0,low,3.6,yes
+1073,2025-07-25,Rubabu,155.0,16.5,59.0,high,0.6,yes
+1033,2025-06-05,Nyagatare,159.0,13.9,42.0,high,2.9,yes
+1361,February 05,Nyagatare,132.0,32.6,34.0,medium,0.3,no
+1326,04 Jul 2025,Musanze,150.0,30.5,17.0,high,2.9,no
+1109,2025-05-05,Musanze,126.0,21.9,38.0,medium,4.6,No
+1208,08/02/2025,Musanze,42.0,17.5,22.0,low,2.0,no
+1144,24 May 2025,Nyagatare,71.0,14.1,11.0,medium,3.3,No
+1205,2025-04-29,Musanze,154.0,30.7,67.0,high,4.0,YES
+1379,11 Jul 2025,Huye,47.0,29.6,16.0,low,2.4,no
+1356,26 Jul 2025,Rwamagana,132.0,14.0,16.0,medium,4.9,No
+1383,21/05/2025,Nyagatare,95.0,31.5,42.0,medium,3.1,No
+1175,June 05,Rwamagana,187.0,18.5,54.0,high,1.6,Yes
+1153,2025-02-10,MUSANZE,117.0,22.2,34.0,medium,1.2,yes
+1123,May 20,Kayonza,71.0,33.3,83.0,medium,4.2,no
+1159,April 05,Kayonza,37.0,23.6,29.0,low,2.1,No
+1394,2025-07-12,Kayonza,76.0,17.1,17.0,medium,1.5,no
+1258,2025-04-11,Kayonza,187.0,33.1,65.0,high,2.2,yes
+1176,24/06/2025,Huye,15.0,17.3,38.0,low,2.3,no
+1223,23/02/2025,Huye,127.0,31.1,28.0,medium,4.6,no
+1091,01/05/2025,Huye,184.0,25.7,46.0,high,4.7,YES
+1162,27 Jun 2025,Rubavu,88.0,20.2,46.0,medium,1.4,no
+1102,February 16,Nyagatare,27.0,18.1,86.0,low,2.8,No
+1134,2025-04-27,Rwamagana,178.0,34.5,83.0,high,2.4,YES
+1212,23 Mar 2025,Nyagatare,110.0,14.1,34.0,medium,0.9,no
+1308,2025-07-21,Kayonza,78.0,25.3,21.0,medium,1.2,NO
+1111,2025-04-27,Rwamagana,131.0,21.5,21.0,medium,3.4,No
+1020,2025-06-13,Musanze,45.0,25.1,85.0,low,4.2,yes
+1387,22 Jun 2025,Nyagatare,50.0,31.0,89.0,low,1.4,no
+1303,2025-07-19,Kayonza,2.0,33.8,37.0,low,3.1,no
+1108,30 Jul 2025,Rubavu,171.0,14.4,83.0,high,2.2,yes
+1061,2025-03-02,Kayonza,104.0,31.4,61.0,medium,3.7,no
+1210,14 Jul 2025,Kayonza,176.0,26.6,11.0,high,4.1,yes
+1015,06/06/2025,Nyagatare,103.0,21.1,10.0,medium,2.2,NO
+1001,09 Apr 2025,Kayonsa,36.0,17.0,72.0,low,3.3,No
+1169,09 Mar 2025,nyagatare,24.0,27.5,83.0,low,1.4,No
+1017,2025-03-08,Rwamagana,90.0,29.5,72.0,medium,99.0,Yes
+1046,2025-02-11,RUBAVU,99.0,16.5,81.0,medium,2.6,No
+1103,12 Jul 2025,Musanze,123.0,32.6,43.0,medium,0.2,NO
+1140,18 Apr 2025,Nyagatare,138.0,25.7,38.0,medium,0.8,yes
+1227,April 19,nyagatare,115.0,18.6,61.0,medium,4.6,yes
+1276,April 19,Rubavu,118.0,12.2,19.0,medium,2.9,No
+1165,2025-06-04,Huye,73.0,21.7,89.0,medium,3.3,yes
+1031,May 19,Kayonsa,42.0,25.8,86.0,low,3.8,no
+1369,2025-03-18,Huye,199.0,13.2,18.0,high,3.2,no
+1237,2025-04-13,Nyagatare,59.0,28.3,20.0,low,0.6,no
+1289,23/07/2025,Rwamagana,104.0,26.0,23.0,medium,3.6,No
+1305,2025-02-21,rwamagana,38.0,18.9,,low,2.1,no
+1142,2025-02-02,Rwamagna,82.0,31.5,,medium,1.4,yes
+1315,2025-04-17,Kayonza,171.0,12.7,68.0,high,4.8,yes
+1198,2025-02-06,Nyagatare,36.0,20.8,29.0,low,3.7,no
+1113,February 19,Huye,134.0,35.0,73.0,medium,4.0,yes
+1201,February 07,rwamagana,155.0,24.2,74.0,high,0.3,yes
+1336,01/02/2025,HUYE ,80.0,21.6,12.0,medium,3.1,no
+1166,2025-07-24,Kayonza,9.0,23.1,68.0,low,4.2,no
+1232,2025-07-30,rwamagana,41.0,25.4,58.0,low,1.3,No
+1098,22 Apr 2025,Nyagatare,183.0,20.0,65.0,high,1.0,yes
+1099,01 Jun 2025,Kayonza,47.0,14.5,62.0,low,2.9,no
+1028,25/07/2025,Nyagatare,119.0,13.4,63.0,medium,4.2,Yes
+1371,11/02/2025,Rubavu,75.0,33.4,52.0,medium,2.8,no
+1034,2025-03-21,HUYE ,121.0,33.4,26.0,medium,3.9,no
+1231,2025-07-05,nyagatare,3.0,18.3,32.0,low,3.0,No
+1026,07 Apr 2025,Rwamagana,73.0,17.3,57.0,medium,0.3,No
+1121,21 Mar 2025,Huye,132.0,28.5,39.0,medium,1.6,yes
+1324,2025-07-13,Nyagatare,141.0,34.9,26.0,high,0.5,no
+1297,March 09,Huye,22.0,29.6,76.0,low,4.2,NO
+1125,05/07/2025,kayonza ,63.0,20.1,58.0,low,2.4,no
+1008,July 22,Rwamagna,35.0,28.6,78.0,low,-2.5,no
+1344,04 Mar 2025,Kayonsa,130.0,14.0,21.0,medium,3.2,no
+1341,12/03/2025,huye,180.0,30.6,31.0,high,0.5,yes
+1274,2025-04-13,Huye,147.0,25.2,75.0,high,0.7,yes
+1179,21/05/2025,Rubabu,162.0,15.9,34.0,high,2.4,yes
+1290,12 Feb 2025,Huye,155.0,33.2,71.0,high,4.7,Yes
+1280,April 19,Kayonza,82.0,13.9,22.0,medium,4.4,NO
+1340,July 18,Kayonza,187.0,18.1,34.0,high,1.6,yes
+1244,2025-06-13,kayonza ,97.0,13.5,71.0,medium,4.9,No
+1014,2025-04-15,Rubavu,151.0,27.9,32.0,high,1.6,YES
+1396,18 May 2025,Rubavu,136.0,29.1,74.0,medium,0.9,yes
+1092,2025-06-21,Nyagatare,38.0,24.2,58.0,low,3.1,No
+1009,14 May 2025,Musanze,131.0,13.7,82.0,medium,2.5,yes
+1242,08/07/2025,Rwamagana,189.0,21.2,56.0,high,4.9,yes
+1334,2025-02-05,Huye,136.0,12.0,73.0,medium,4.6,Yes
+1127,2025-03-17,Musanse,133.0,33.7,16.0,medium,0.3,no
+1148,March 03,Nyagatare,74.0,20.0,23.0,medium,5.0,no
+1265,30/04/2025,rwamagana,129.0,34.8,,medium,1.4,no
+1382,21/05/2025,Nyagatari,105.0,28.3,70.0,medium,4.2,yes
+1110,2025-03-06,Musanze,64.0,30.4,89.0,low,3.9,yes
+1190,2025-06-14,Nyagatare,64.0,20.6,61.0,low,3.8,No
+1030,June 25,Huye,60.0,32.3,36.0,low,1.6,No
+1094,28 Mar 2025,Rubavu,158.0,28.1,79.0,high,2.6,yes
+1086,May 24,Kayonza,121.0,34.0,,medium,2.9,no
+1213,2025-02-16,Nyagatare,53.0,30.5,40.0,low,2.6,NO
+1391,April 09,Musanze,151.0,13.4,40.0,high,4.2,No
+1320,19 Apr 2025,Nyagatare,17.0,14.2,65.0,low,3.9,no
+1052,23 May 2025,Kayonza,74.0,14.1,88.0,medium,3.0,No
+1022,2025-07-21,rwamagana,86.0,22.4,68.0,medium,1.4,NO
+1302,17 Feb 2025,musanze,67.0,12.5,71.0,low,4.6,No
+1183,16 Apr 2025,Rwamagana,170.0,15.8,55.0,high,1.3,yes
+1029,2025-06-30,Rwamagana,87.0,33.4,81.0,medium,3.7,No
+1284,16 Jun 2025,Hue,139.0,25.5,14.0,medium,2.2,yes
+1121,21 Mar 2025,Huye,132.0,28.5,39.0,medium,1.6,yes
+1154,2025-03-20,Huye,48.0,31.4,54.0,low,1.7,NO
+1032,03 Jun 2025,Nyagatare,175.0,13.7,46.0,high,1.7,no
+1300,12/02/2025,Kayonza,142.0,28.3,14.0,high,0.2,no
+1007,July 30,Kayonza,181.0,19.3,69.0,high,2.2,yes
+1321,12 Jun 2025,Huye,168.0,31.9,65.0,high,3.6,yes
+1215,June 03,Rubavu,4.0,31.8,41.0,low,0.8,No
+1306,2025-04-15,Rwamagana,64.0,17.8,61.0,low,1.2,NO
+1193,24/05/2025,Musanse,92.0,34.6,74.0,medium,4.8,yes
+1351,2025-06-21,Rwamagana,30.0,28.0,46.0,low,1.4,no
+1196,May 08,Rubavu,100.0,15.3,59.0,medium,4.2,No
+1068,12 Mar 2025,Huye,72.0,27.7,22.0,medium,3.5,no
+1250,February 09,nyagatare,47.0,15.0,82.0,low,3.9,No
+1059,2025-02-03,Nyagatare,0.0,17.1,37.0,low,2.7,no
+1229,24/04/2025,Rwamagana,111.0,34.2,89.0,medium,1.8,No
+1327,26/05/2025,Rwamagana,63.0,34.1,50.0,low,0.6,no
+1310,27 Apr 2025,Rubavu,10.0,20.8,26.0,low,2.2,No
+1333,09 May 2025,Kayonza,80.0,26.4,,medium,4.3,no
+1086,May 24,Kayonza,121.0,34.0,,medium,2.9,no
+1380,13/03/2025,Musanze,131.0,34.2,33.0,medium,-2.5,no
+1331,09/03/2025,Rwamagana,62.0,24.0,79.0,low,4.0,yes
+1178,15/03/2025,Musanze,34.0,13.4,35.0,low,4.6,no
+1192,March 28,Rwamagana,110.0,25.6,84.0,medium,4.7,yes
+1362,02 Mar 2025,Rwamagana,33.0,33.3,24.0,low,3.9,No
+1035,11 Jul 2025,Rubavu,69.0,14.9,14.0,low,1.1,No
+1236,May 05,Musanze,74.0,33.2,75.0,medium,1.1,No
+1200,10 Jun 2025,Rwamagana,71.0,13.5,46.0,medium,4.5,no
+1075,03 Jun 2025,Rwamagana,178.0,19.5,56.0,high,4.4,Yes
+1217,May 13,Kayonsa,54.0,22.4,59.0,low,4.0,no
+1307,01 Mar 2025,Huye,113.0,21.2,,medium,3.3,NO
+1374,12/05/2025,Rwamagana,97.0,23.2,41.0,medium,4.3,no
+1287,April 09,Rubavu,148.0,31.5,,high,150.0,yes
+1347,2025-06-15,Nyagatare,106.0,31.1,47.0,medium,3.3,No
+1225,May 08,Nyagatari,84.0,28.9,30.0,medium,0.8,no
+1211,June 19,Rubavu,41.0,32.9,68.0,low,4.2,NO
+1293,22/02/2025,Rwamagana,182.0,29.9,40.0,high,3.3,yes
+1074,June 22,Rubavu,192.0,32.1,17.0,high,0.9,yes
+1235,09/02/2025,Rubavu,98.0,34.3,77.0,medium,0.5,yes
+1240,20 Feb 2025,Rubabu,87.0,19.8,33.0,medium,4.6,no
+1095,30/05/2025,Musanze,128.0,31.0,70.0,medium,0.7,yes
+1053,May 07,nyagatare,84.0,16.8,44.0,medium,3.5,no
+1348,25/02/2025,Nyagatare,40.0,14.7,42.0,low,0.2,No
+1366,28 Apr 2025,Rubavu,76.0,23.8,85.0,medium,4.7,yes
+1245,2025-04-30,Rubavu,28.0,17.1,81.0,low,4.6,no
+1106,2025-06-06,Kayonza,14.0,18.7,85.0,low,3.0,No
+1066,21/03/2025,Rubavu,198.0,15.1,20.0,high,1.5,Yes
+1158,March 05,Rubavu,85.0,17.1,88.0,medium,4.5,YES
+1252,2025-05-14,Rubavu,32.0,33.3,38.0,low,1.7,No
+1174,26/06/2025,Kayonza,192.0,25.5,12.0,high,3.8,yes
+1090,2025-02-05,Nyagatare,178.0,15.0,54.0,high,3.0,Yes
+1135,2025-05-18,Rwamagana,43.0,29.3,27.0,low,4.4,no
+1010,February 26,Rubavu,60.0,29.0,89.0,low,4.1,no
+1253,April 28,Kayonza,22.0,23.6,81.0,low,3.7,No
+1159,April 05,Kayonza,37.0,23.6,29.0,low,2.1,No
+1181,23 Feb 2025,Rwamagana,144.0,27.6,82.0,high,3.4,yes
+1339,2025-03-30,Nyagatare,192.0,34.8,54.0,high,2.5,Yes
+1216,2025-03-19,Kayonza,56.0,26.0,53.0,low,0.8,No
+1048,March 30,Rubavu,38.0,17.0,41.0,low,2.8,no
+1377,27/07/2025,RUBAVU,178.0,29.0,,high,1.8,yes
+1120,17/03/2025,Rubavu,103.0,14.7,73.0,medium,5.0,NO
+1309,09/03/2025,Musanze,92.0,23.9,58.0,medium,1.6,yes
+1356,26 Jul 2025,Rwamagana,132.0,14.0,16.0,medium,4.9,No
+1294,24/06/2025,Musanze,86.0,21.8,33.0,medium,1.4,no
+1085,25/05/2025,kayonza ,3.0,13.7,27.0,low,2.9,no
+1399,2025-04-09,RUBAVU,124.0,17.7,18.0,medium,4.5,no
+1065,28/03/2025,musanze,181.0,17.3,70.0,high,4.0,yes
+1089,February 20,nyagatare,113.0,31.3,68.0,medium,0.9,no
+1055,08 Jul 2025,Rwamagana,94.0,19.6,40.0,medium,1.5,no
+1197,2025-07-08,Musanze,181.0,29.8,75.0,high,0.3,yes
+1118,2025-03-25,Rubavu,111.0,25.6,79.0,medium,2.0,YES
+1270,11 Apr 2025,Huye,108.0,18.4,57.0,medium,3.7,Yes
+1279,June 21,Kayonza,66.0,13.9,26.0,low,4.6,No
+1346,11/03/2025,Musanze,106.0,24.0,66.0,medium,2.2,Yes
+1124,10/07/2025,Rubavu,64.0,25.5,82.0,low,4.1,YES
+1137,March 25,Musanze,143.0,24.4,50.0,high,2.8,Yes
+1222,05/03/2025,Rubavu,99.0,30.7,77.0,medium,0.6,Yes
+1143,April 24,Huye,20.0,29.7,65.0,low,3.7,no
+1206,20/04/2025,Rwamagana,154.0,23.7,22.0,high,2.2,Yes
+1365,02 Feb 2025,Musanze,188.0,33.9,24.0,high,1.1,yes
+1045,15 Apr 2025,Rubavu,46.0,18.7,66.0,low,2.8,no
+1081,2025-05-13,Musanze,56.0,17.3,47.0,low,2.1,No
+1168,2025-03-22,Huye,6.0,27.5,23.0,low,0.6,NO
+1265,30/04/2025,rwamagana,129.0,34.8,,medium,1.4,no
+1177,30/03/2025,Kayonza,171.0,24.2,88.0,high,3.7,yes
+1199,2025-05-22,Rubabu,58.0,33.3,,low,4.2,No
+1139,April 15,Huye,69.0,28.7,42.0,low,2.7,No
+1132,2025-05-25,Nyagatare,140.0,32.1,66.0,medium,4.9,Yes
+1273,15/03/2025,Musanze,200.0,29.9,25.0,high,0.5,yes
+1352,09/03/2025,Rwamagna,146.0,15.7,64.0,high,0.3,Yes
+1050,24/07/2025,Musanze,110.0,25.8,13.0,medium,4.3,no
+1277,2025-05-10,Rubabu,2.0,20.4,40.0,low,2.0,No
+1288,June 26,Nyagatare,197.0,22.1,34.0,high,1.5,yes
+1173,2025-03-20,Nyagatare,114.0,26.6,75.0,medium,1.4,YES
+1005,April 15,Hue,71.0,13.3,25.0,medium,4.8,no
+1398,18/03/2025,Huye,166.0,30.3,34.0,high,2.7,yes
+1051,27/02/2025,Rwamagana,124.0,34.2,58.0,medium,0.8,no
+1039,14/05/2025,Huye,180.0,21.5,62.0,high,1.2,yes
+1214,20 May 2025,Rubavu,83.0,27.7,80.0,medium,0.9,YES
+1295,2025-02-19,Rubavu,149.0,29.2,24.0,high,1.8,yes
+1298,15 Jul 2025,Rwamagana,25.0,24.3,17.0,low,3.8,no
+1255,13/02/2025,rwamagana,124.0,32.9,36.0,medium,0.8,no
+1146,2025-07-04,Musanze,43.0,24.5,27.0,low,4.5,No
+1079,09 Jun 2025,Rwamagana,5.0,18.0,28.0,low,4.7,no
+1299,April 12,Rubavu,102.0,28.7,,medium,4.3,Yes
+1392,June 22,Nyagatare,74.0,23.4,40.0,medium,3.1,NO
+1076,2025-05-06,Rubavu,124.0,31.0,51.0,medium,3.1,no
+1261,2025-05-24,Nyagatare,197.0,24.1,77.0,high,0.9,YES
+1172,08/05/2025,Nyagatare,67.0,34.0,73.0,low,3.8,no
+1032,03 Jun 2025,Nyagatare,175.0,13.7,46.0,high,1.7,no
+1114,22/02/2025,Kayonsa,26.0,17.0,41.0,low,0.6,No
+1256,08/02/2025,Musanze,148.0,17.2,38.0,high,2.2,No
+1062,2025-03-28,Huye,65.0,25.1,60.0,low,1.0,No
+1323,2025-04-16,Rubavu,77.0,33.7,84.0,medium,0.8,no
+1291,2025-07-20,rubavu,83.0,13.8,85.0,medium,2.3,no
+1117,2025-07-04,Kayonza,17.0,23.4,23.0,low,0.4,no
+1019,April 12,Nyagatare,56.0,13.9,31.0,low,3.6,No
+1087,27 Apr 2025,Musanze,98.0,12.3,44.0,medium,2.7,no
+1349,27 May 2025,Musanze,32.0,24.0,36.0,low,1.9,no
+1257,01/07/2025,musanze,71.0,33.2,,medium,0.8,No
+1360,15 Mar 2025,Huye,103.0,29.4,46.0,medium,3.0,no
+1147,18/04/2025,Nyagatare,23.0,16.3,38.0,low,0.7,no
+1350,15 May 2025,Rwamagana,157.0,31.9,67.0,high,0.7,yes
+1036,2025-06-16,Rwamagana,189.0,15.4,15.0,high,1.9,yes
+1025,June 03,Huye,90.0,18.7,14.0,medium,3.4,no
+1161,July 04,Kayonza,111.0,32.6,,medium,2.6,no
+1021,April 27,Rubavu,105.0,12.1,29.0,medium,4.6,No
+1241,17 Apr 2025,kayonza ,155.0,30.6,84.0,high,4.8,yes
+1119,2025-03-18,Musanze,46.0,24.6,57.0,low,1.8,NO
+1170,2025-03-15,Musanze,93.0,33.5,40.0,medium,1.0,no
+1275,01/06/2025,Huye,86.0,21.1,38.0,medium,4.9,No
+1207,March 20,Nyagatare,16.0,32.9,87.0,low,3.0,no
+1107,09/05/2025,Nyagatare,121.0,20.8,17.0,medium,3.4,no
+1247,03/05/2025,Nyagatare,99.0,33.3,55.0,medium,3.0,no
+1006,10/03/2025,Rwamagana,158.0,27.2,,high,4.6,yes
+1390,25 Jul 2025,Huye,31.0,23.7,,low,1.8,NO
+1112,March 26,Kayonza,68.0,23.4,29.0,low,3.0,No
+1180,08/03/2025,Nyagatare,59.0,28.3,63.0,low,1.9,YES
+1234,26/06/2025,Huye,114.0,26.0,63.0,medium,4.7,yes
+1186,2025-03-06,Nyagatari,126.0,25.5,74.0,medium,2.9,Yes
+1328,23 Feb 2025,Huye,95.0,28.5,,medium,4.8,yes
+1220,04 Jul 2025,MUSANZE,36.0,13.3,86.0,low,1.1,no
+1364,23/03/2025,Huye,157.0,26.5,11.0,high,4.7,no
+1343,01/04/2025,Nyagatare,29.0,28.6,80.0,low,0.4,no
+1071,26/03/2025,Hue,113.0,21.3,72.0,medium,1.1,Yes
+1200,10 Jun 2025,Rwamagana,71.0,13.5,46.0,medium,4.5,no
+1304,16 Jul 2025,Rwamagana,107.0,22.8,80.0,medium,4.7,YES
+1167,April 08,Musanze,193.0,34.5,51.0,high,0.4,Yes
+1044,27/07/2025,Huye,140.0,23.4,25.0,medium,0.4,YES
+1203,15/07/2025,Rwamagana,41.0,23.7,66.0,low,2.1,no
+1160,2025-03-28,Nyagatare,152.0,23.8,28.0,high,4.1,yes
+1314,26/06/2025,Rubavu,177.0,33.2,65.0,high,2.5,YES
+1277,2025-05-10,Rubabu,2.0,20.4,40.0,low,2.0,No
+1155,06 Feb 2025,Rwamagna,134.0,25.9,43.0,medium,2.6,Yes
